@@ -1,6 +1,7 @@
 ---
 title: "Simulation game"
 date: 2023-08-29T08:22:25+07:00
+draft: false
 ---
 
 # An idea about a game, set in a simulation
