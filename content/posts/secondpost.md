@@ -1,7 +1,6 @@
 ---
 title: "Simulation game"
 date: 2023-08-29T08:22:25+07:00
-tags: [main]
 ---
 
 # An idea about a game, set in a simulation
